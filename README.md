@@ -37,6 +37,9 @@ To use this implementation of the interval partitioning algorithm, follow these 
 
 6. The script will output the minimum number of classrooms required to schedule all lectures without any overlapping.
 
+# Requirements
+Python 3.x
+
 ## Example
 - Example inputs: lectures = [(0, 1), (1, 3), (2, 4), (3, 5), (4, 6), (1,5), (5,10)]
 - The first time is the starting time of the lecture and second time is finish time
