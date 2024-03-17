@@ -38,6 +38,12 @@ To use this implementation of the interval partitioning algorithm, follow these 
 6. The script will output the minimum number of classrooms required to schedule all lectures without any overlapping.
 
 ## Example
+- Example inputs: lectures = [(0, 1), (1, 3), (2, 4), (3, 5), (4, 6), (1,5), (5,10)]
+- The first time is the starting time of the lecture and second time is finish time
+- It will find the minimum amount of classrooms that it can provide with these scheduled lectures
+
+![interval_partitioning](https://github.com/kainoa7/interval_partitioning/assets/97155994/8bbc45d3-929d-4800-b8de-73cfba599a84)
+
 
 
 
