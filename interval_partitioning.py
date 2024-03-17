@@ -25,7 +25,7 @@ def interval_partitioning(lectures):
     
     return num_classrooms
 
-# Example usage
+# Example inputs
 lectures = [(0, 1), (1, 3), (2, 4), (3, 5), (4, 6), (1,5), (5,10)]
 min_classrooms = interval_partitioning(lectures)
 print("Minimum number of classrooms required:", min_classrooms)
